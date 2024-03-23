@@ -1,0 +1,40 @@
+.card{
+    border: 2px solid black;
+    border-radius: 0px 10px 0px 10px;
+    width: 60%;
+    height: 40vh;
+    margin-left: 10vw;
+    margin-top: 10px;
+    background-image: linear-gradient(to bottom right, rgb(219, 82, 224), rgb(240, 248, 2))
+}
+.form{
+    width: 80%;
+    margin: auto;
+    margin-top: 15px;
+}
+.view{
+    margin-left: 20px;
+    width: 10vw;
+}
+.input{
+    margin-left: 20px;
+    width: 20vw;
+}
+.btn{
+    margin-left: 20px;
+    width: 5vw;
+}
+.h{
+    text-align: center;
+}
+.li{
+    list-style: none;
+    text-align: center;
+}
+.display{
+    height: 80%;
+    overflow: scroll;
+}
+.delete{
+    margin-left: 10px;
+}
